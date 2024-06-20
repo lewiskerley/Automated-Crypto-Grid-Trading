@@ -1,0 +1,7 @@
+keras==3.2.1
+matplotlib==3.8.4
+pandas==2.2.2
+scikit_learn==1.4.2
+tensorflow==2.16.1
+tensorflow_intel==2.16.1
+torch==2.2.1
